@@ -1,5 +1,5 @@
 # PacMan 
 ## This is my Pacman Project
-<img src=pacman.png>
+<img src=pacman1.png>
 
 
